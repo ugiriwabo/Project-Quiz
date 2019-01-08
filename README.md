@@ -12,3 +12,6 @@ You would need the following to access the website *Smart phone/PC/laptop/Deskto
 
 link to live site on GitHub Pages
 https://github.com/ugiriwabo/Project-Quiz
+
+copyright and license information
+Copyright©2018 Quiz-Board This project is licensed under the MIT License - see the License.md file for details.
