@@ -18,3 +18,9 @@ Copyright©2018 Quiz-Board This project is licensed under the MIT License - see 
 
 Contact information
 If you have some issues running this application,contact me at ugiraconsole@gmail.com
+
+Technologies used
+HTML
+CSS
+Bootstrap
+JQuery
