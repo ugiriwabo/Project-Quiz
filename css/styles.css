@@ -1,6 +1,62 @@
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IGJlkgGRIyf3nLubdT85_fDAr9d5-9kyt0_9MfhdRwHVB5-r);
-    background-repeat: no-repeat;
-    background-size: cover;  
-    
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAHRTihU2k2L8fY3QVFB0OKqEGq10lI3q8dGS_CwCF8uxhZfq');
+  background-repeat: no-repeat;
+  background-size: cover; 
+  padding: 30px;
+  background-color: grey;
 }
+
+header{
+  background-image: url('https://thumbs.dreamstime.com/t/wedding-flower-frame-blue-background-above-beautiful-floral-pattern-flat-lay-style-79676427.jpg');
+  padding: 30px;
+  color:black;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 1200px;
+}
+
+header>p{
+  font-size: 60px;
+}
+
+#instruction{
+  padding: 30px;
+  background-color: white;
+  font-weight: 100px;
+}
+
+#test{
+  display: none;
+}
+
+.begin{
+  cursor: pointer;
+}
+
+.begin:hover{
+  text-decoration: underline;
+  color: aliceblue;
+  background-color: coral;
+}
+
+.final{
+  display: none;
+}
+
+#intro{
+  text-align: center;
+  font-size: 50px;
+  color: whitesmoke;
+}
+
+.final{
+  background-color: white;
+  text-align: center;
+  padding: 70px;
+  margin: 200px;
+}
+
+#display{
+  color: black;
+  font-size: 50px;
+}  
